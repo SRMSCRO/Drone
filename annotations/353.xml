@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Resized drones</folder>
+	<filename>472.jpg</filename>
+	<path>C:\Users\Pc\Desktop\Resized drones\472.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>d</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>420</ymin>
+			<xmax>279</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

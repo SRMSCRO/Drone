@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset resized</folder>
+	<filename>660.jpg</filename>
+	<path>C:\Users\Prakriti\Desktop\dataset resized\660.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>d</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>60</ymin>
+			<xmax>589</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>
